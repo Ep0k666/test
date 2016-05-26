@@ -4,6 +4,7 @@
 	<title></title>
 </head>
 <body>
- <?php echo 'hello'?>
+	<h1>Titre1</h1>
+ 	<?php echo 'hello'?>
 </body>
 </html>
